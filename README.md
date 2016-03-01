@@ -5,5 +5,5 @@
 A finite-state machine (FSM), easy to use also can be set by Inspector window.
 
 有限狀態機
-![Inspector](https://raw.github.com/erinlin/Unity-Utilities/origin/Screenshots/fsm02.jpg)
-![ScreenShot](https://raw.github.com/erinlin/Unity-Utilities/origin/Screenshots/fsm01.jpg)
+![Inspector](https://raw.github.com/erinlin/Unity-Utilities/master/Screenshots/fsm02.jpg)
+![ScreenShot](https://raw.github.com/erinlin/Unity-Utilities/master/Screenshots/fsm01.jpg)
