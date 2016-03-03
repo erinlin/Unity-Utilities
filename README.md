@@ -6,8 +6,8 @@ A finite-state machine (FSM), easy to use also can be set by Inspector window.
 
 有限狀態機
 
-![Inspector](https://raw.github.com/erinlin/Unity-Utilities/master/Screenshots/fsm02.jpg)
-![ScreenShot](https://raw.github.com/erinlin/Unity-Utilities/master/Screenshots/fsm01.jpg)
+![Inspector](Screenshots/fsm02.jpg)
+![ScreenShot](Screenshots/fsm01.jpg)
 
 ## erinylin_sceneloader.unitypackage
 Camera-specific component for Scene transition that handle to load the next scene and crossfading between scenes. 
@@ -21,4 +21,4 @@ Camera-specific component for Scene transition that handle to load the next scen
 	loader.ToScene = "The Next Scene Name";
 	loader.Play();
 
-![SceneLoader](https://raw.github.com/erinlin/Unity-Utilities/master/Screenshots/screenloader01.jpg)
+![SceneLoader](Screenshots/sceneloader01.jpg)
