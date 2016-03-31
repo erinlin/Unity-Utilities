@@ -27,18 +27,17 @@ Open `Assets/erinylin/playerprefs/External/PlayerPrefs.cs`, then find the script
 #### Feature:
 
 1. Cookie Manager
-![Inspector](Screenshots/cookie01.jpg)
+<br/>![Inspector](Screenshots/cookie01.jpg)
 
 2. DataObject mix type editing.
 DataScriptableObject can create by `Assets / Create / Lazylib / DataScriptableObject`
-![ScreenShot](Screenshots/cookie02.jpg)
-![ScreenShot](Screenshots/cookie02-1.jpg)
+<br/>![ScreenShot](Screenshots/cookie02.jpg) ![ScreenShot](Screenshots/cookie02-1.jpg)
 	
 3. Runtime debugs window, only in Unity Editor Mode.
-![SceneLoader](Screenshots/cookie03.jpg)
+<br/>![SceneLoader](Screenshots/cookie03.jpg)
 
 4. Exports the DataObject of Constant class file by one click.
-![SceneLoader](Screenshots/cookie04.jpg)
+<br/>![SceneLoader](Screenshots/cookie04.jpg)
 
 5. Version control
 The higher Version Code of DataScriptableObject's data will rewrite the same name priperties of lower's.
